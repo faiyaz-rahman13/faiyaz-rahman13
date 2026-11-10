@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @faiyaz-rahman13
+- 👋 Hi, I’m faiyaz rahman
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on starter companies
+- 🌱 I’m currently learning DSA
 - 📫 How to reach me ? mail me on faiyaz.rahman1313@gmail.com
 
 <!---
